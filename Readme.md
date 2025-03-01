@@ -1,1 +1,1 @@
-Este es el nuevo módulo para la gestión de inventarios
+Esta son nuevas funcionalidad del sistema.
